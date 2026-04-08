@@ -1,0 +1,16 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local IDE settings
+.vscode/
+.idea/
+
+# Map files (선택: 지도를 깃에 올리고 싶지 않다면 추가)
+*.pgm
+*.yaml
